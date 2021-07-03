@@ -1,0 +1,4 @@
+alias(
+    name = "bazel-diff",
+    actual = "@bazel_diff//src/main/java/com/bazel_diff:bazel-diff",
+)
